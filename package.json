@@ -1,6 +1,6 @@
 {
   "name": "redux-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sensible webpack 5 boilerplate using Babel and PostCSS with a hot dev server and an optimized production build.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
     "@babel/plugin-proposal-class-properties": "^7.14.5",
     "@babel/preset-env": "^7.15.6",
     "@babel/preset-react": "^7.14.5",
-    "@reduxjs/toolkit": "^1.6.1",
     "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^9.0.1",
@@ -38,11 +37,6 @@
     "postcss-loader": "^6.1.1",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.4.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.5",
-    "react-router-dom": "^5.3.0",
-    "redux": "^4.1.1",
     "regenerator-runtime": "^0.13.9",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1",
@@ -50,5 +44,13 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.2.0",
     "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.5",
+    "react-router-dom": "^5.3.0",
+    "redux": "^4.1.1"
   }
 }
