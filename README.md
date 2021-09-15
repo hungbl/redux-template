@@ -25,7 +25,7 @@ Huge thank for Tania Rascia with article here:
 
 [https://www.taniarascia.com/how-to-use-webpack/](https://www.taniarascia.com/how-to-use-webpack/)
 
-[https://www.taniarascia.com/crud-app-in-react-with-hooks/](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+[https://www.taniarascia.com/redux-react-guide/](https://www.taniarascia.com/redux-react-guide/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
